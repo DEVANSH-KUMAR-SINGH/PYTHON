@@ -2,10 +2,10 @@
 <p>I took the initiative to post solutions to the problems of Python questions. These questions are solved by me and are not copied from the internet or taken by AI.<br><br>
 ✅  All codes of Python language grouped according to difficulty level are present in this repo.<br>  
 ✅  Codes are grouped as: ***<br>
-       &nbsp;&nbsp;&nbsp;&nbsp; 1.&nbsp; | &nbsp;EASY &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp;                | &nbsp;     SYMBOL(🟢)<br>
-       &nbsp;&nbsp;&nbsp;&nbsp; 2.&nbsp; |  &nbsp;MEDIUM  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;            | &nbsp;     SYMBOL(🔵)<br>
-       &nbsp;&nbsp;&nbsp;&nbsp; 3.&nbsp; |  &nbsp;HARD  &emsp;&emsp;&emsp;&emsp;&emsp; &emsp;&emsp;              | &nbsp;     SYMBOL(🔴)<br>
-       &nbsp;&nbsp;&nbsp;&nbsp; 4.&nbsp; |  &nbsp;COLLEGE QUESTIONS  &nbsp;  |&nbsp;&nbsp;      SYMBOL(🟡)<br><br>
+       &nbsp;&nbsp;&nbsp;&nbsp; 1.&nbsp; EASY <br>
+       &nbsp;&nbsp;&nbsp;&nbsp; 2.&nbsp; MEDIUM <br>
+       &nbsp;&nbsp;&nbsp;&nbsp; 3.&nbsp; HARD <br>
+       &nbsp;&nbsp;&nbsp;&nbsp; 4.&nbsp; COLLEGE QUESTIONS <br><br>
 ✅  Please don't hesitate to suggest any changes to improve the performance of the provided answers to the given questions.<br><br>
 ✅  To accept the pull request and commit changes one must also give a nice explanation of the logic changes represented through comments in the given codes.<br><br>
 ✅  Each answer consists of:<br>
