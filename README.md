@@ -14,7 +14,7 @@
         &nbsp;&nbsp;&nbsp;&nbsp; 3. &nbsp;  CODES<br>
         &nbsp;&nbsp;&nbsp;&nbsp; 4. &nbsp;  EXPLANATION OF STEPS<br><br>
 ✅  A special thanks to everyone who contributes to this repo which we hope will help many people learn Python, we will acknowledge your immensely important contribution to this repo.<br><br>
-✅  We will upload solutions to the problems regularly. So keep an eye on this repo to learn something new every day.<br><br>
+✅  I will upload solutions to the problems regularly. So keep an eye on this repo to learn something new every day.<br><br>
 ✅  Remain civil in the comments section otherwise strict action will be taken one can be sure of that.<br><br>
 At last thanks to everyone who stopped to read this and will learn something from here. <br><br><br>
 
